@@ -20,7 +20,7 @@ export default function Home() {
           Your AI-powered sales agent that guides every lead to the finish line.
         </p>
         <a
-          href="https://forms.gle/REPLACE_WITH_YOUR_FORM"
+          href="https://forms.gle/9t2xpuMpNye6Pgp98"
           target="_blank"
           rel="noreferrer"
           className="mt-8 inline-block rounded-2xl bg-indigo-500 py-3 px-6 text-lg font-semibold shadow-lg hover:bg-indigo-600 transition"
